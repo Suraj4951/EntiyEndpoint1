@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FCeOSPDFdJ1oSswhdfs4wF6oZ2wv4WKtULgcuy6oVOM=",
+  "Source": "EntityEndpoint.API",
+  "BasePath": "_content/EntityEndpoint.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
